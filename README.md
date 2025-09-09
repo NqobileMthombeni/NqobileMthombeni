@@ -5,7 +5,7 @@
 - 🚀**Currently exploring:** `Automation Testing`, `AWS`, `DevOps`, `Cloud Computing`, `CI/CD`
 - 🧠 Always seeking new challenges and coding with purpose
 - 🌊 Outside tech: books, music, and nature enthusiast
--🌟 Fun Fact: I once tried to learn a new language in a week… and survived
+- 🌟 Fun Fact: I once tried to learn a new language in a week… and survived
 
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/nqobile-mthombeni-966b64226/)
