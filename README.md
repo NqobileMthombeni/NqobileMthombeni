@@ -2,13 +2,13 @@
 
 ## 💫 About Me
 - 💻 Passionate about turning ideas into clean, functional solutions
-- 🚀 Currently exploring: `Java`, `JavaScript`, `Next.js`, cloud, APIs, and data security
+- 🚀**Currently exploring:** `Automation Testing`, `AWS`, `DevOps`, `Cloud Computing`, `CI/CD`
 - 🧠 Always seeking new challenges and coding with purpose
 - 🌊 Outside tech: books, music, and nature enthusiast
-- ☕️ Fun Fact: I believe in doing everything with intention
+-🌟 Fun Fact: I once tried to learn a new language in a week… and survived
 
 ## 🌐 Connect
-[![LinkedIn](https://www.linkedin.com/in/nqobile-mthombeni-966b64226/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/nqobile-mthombeni-966b64226/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tech.chronicles) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Nqobilemthombeni27@gmail.com) 
 
