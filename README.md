@@ -24,9 +24,9 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
 <img 
   alt="GitHub Snake" 
-  src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" 
-  height="200"
-  onerror="this.src='https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg'" />
-
+  src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" 
+  height="200" 
+  style="background-color: transparent;" />
