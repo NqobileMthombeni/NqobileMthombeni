@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Nqobile - Software Developer from South Africa</h2>
+<h2 align="left">Hi 👋! I'm Nqobile - Junior Software Developer</h2>
 
 ## 💫 About Me
 - 💻 Passionate about turning ideas into clean, functional solutions
